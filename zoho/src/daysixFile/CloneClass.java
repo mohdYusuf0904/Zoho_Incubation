@@ -38,6 +38,7 @@ public class CloneClass {
 	    {
 
 		/*
+		 * shallow copy
 			Test2 t1 = new Test2();
 	        t1.a = 10;
 	        t1.b = 20;
@@ -50,6 +51,9 @@ public class CloneClass {
 	        
 	        */
 	          
+			
+			//deep copy
+			
 	        Test3 t1 = new Test3();
 	        t1.a = 10;
 	        t1.b = 20;
