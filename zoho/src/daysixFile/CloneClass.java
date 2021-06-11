@@ -32,7 +32,7 @@ class Test3 implements Cloneable {
     }
 }
 
-public class Main {
+public class CloneClass {
 	
 		public static void main(String args[])    throws CloneNotSupportedException
 	    {
