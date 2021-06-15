@@ -20,6 +20,8 @@ public class AnimalFactory {
 	}
 	
 }
+
+//marker interface
 interface Animal{
 	
 }
