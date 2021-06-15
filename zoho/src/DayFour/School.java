@@ -1,7 +1,6 @@
 package DayFour;
 import java.util.*;
 
-
 public class School {	
 	
 	private String schoolName;
@@ -38,7 +37,7 @@ public class School {
 			if(age==s.getAge())
 			st.add(s);
 		}
-		
+	
 		return st;
 		
 	}
